@@ -1,2 +1,2 @@
 # Neon-Climb
-Neon-Climb, created in unity engine, with the objective of player moving upwards, and avoiding various obstacles moving downwards to player. Player is required to move from one side of the pole to the other to avoid the oncoming obstacles
+Neon-Climb is a fast-paced game created in Unity Engine, where players must move upwards while avoiding a variety of obstacles that descend toward them. The player navigates by switching from one side of the pole to the other, timing their movements carefully to dodge the oncoming hazards. Precision and quick reflexes are key to climbing higher and surviving the relentless barrage of obstacles. With its dynamic gameplay and engaging mechanics, Neon-Climb tests your skills and keeps you coming back for more.
